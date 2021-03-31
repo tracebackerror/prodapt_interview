@@ -2,5 +2,5 @@ urllib3==1.25.9
 beautifulsoup4==4.9.1
 Django==3.1.7
 django-tables2==2.3.4
-
+whitenoise
 
